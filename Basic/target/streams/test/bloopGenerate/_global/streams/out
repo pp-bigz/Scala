@@ -1,0 +1,4 @@
+[debug] [basic-test] Classpath dependencies List()
+[debug] [basic-test] Dependencies from configurations List(basic)
+[debug] Bloop wrote the configuration of project 'basic-test' to 'D:\Code\Scala\Basic\.bloop\basic-test.json'
+[success] Generated .bloop\basic-test.json
